@@ -1,0 +1,18 @@
+{
+  "name": "nodeapps",
+  "version": "1.0.0",
+  "description": "To-Do-List App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhilesh",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^1.17.3",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {}
+}
